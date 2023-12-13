@@ -1,0 +1,43 @@
+{
+    "contacts": [ 
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "birthdate": "1970-01-01",
+            "email": "jdoe@fake.com",
+            "phone": "8005555555",
+            "street1": "1 Main St.",
+            "street2": "Apartment A",
+            "city": "Anytown",
+            "stateProvince": "KS",
+            "postalCode": "12345",
+            "country": "USA"
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Johnson",
+            "birthdate": "1970-01-01",
+            "email": "mjohn@fake.com",
+            "phone": "7005555555",
+            "street1": "2 Main St.",
+            "street2": "Apartment B",
+            "city": "SomeTown",
+            "stateProvince": "TS",
+            "postalCode": "54321",
+            "country": "USA"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Daila",
+            "birthdate": "1970-01-01",
+            "email": "jdoe@fake.com",
+            "phone": "5005555555",
+            "street1": "3 Main St.",
+            "street2": "Apartment C",
+            "city": "Thattown",
+            "stateProvince": "JS",
+            "postalCode": "56789",
+            "country": "USA"
+        }
+    ]   
+}
